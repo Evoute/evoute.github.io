@@ -8,8 +8,8 @@ We believe that quality tools and software should not be limited to proprietory.
 
 ### Our Team
 
-- Dword (Project Managment / Programmer)
-- InfoUpgrade (Programmer)
+- Dword (Project Managment / Programmer).
+- InfoUpgrade (Programmer).
 
 
 

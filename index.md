@@ -10,6 +10,7 @@ We believe that quality tools and software should not be limited to proprietory.
 
 - Dword (Project Managment / Programmer).
 - InfoUpgrade (Programmer).
+- Guillermo (Programmer).
 
 
 
